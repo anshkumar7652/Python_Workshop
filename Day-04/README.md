@@ -29,6 +29,7 @@
 
 * hw_recursive_gcd.py
 * hw_recursive_prime_check.py
+* hw_fibonacci_series
 
 ## Key Learnings
 
