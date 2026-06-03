@@ -1,4 +1,4 @@
-#cal gcd using while loop
+#cal gcd using Euclidean subtraction method
 n=int(input())
 m=int(input())
 while n!=m:
