@@ -94,3 +94,21 @@ This repository contains the programs, exercises, and notes created during the l
 B.Tech Cyber Security Student
 
 This repository serves as a record of my work, practice programs, and learning outcomes from the Python Workshop.
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+
+**Original Author:** Ansh Kumar ([@anshkumar7652](https://github.com/anshkumar7652))
+
+This is my personal Python learning journal. Feel free to:
+- ✅ Use it for your learning
+- ✅ Reference my approach
+- ✅ Modify and adapt it
+- ✅ Share it with others
+
+Just include the LICENSE file and credit the original author. 
+
+**Thank you for learning with me!** 🐍
